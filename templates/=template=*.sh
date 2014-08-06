@@ -1,10 +1,15 @@
 #! /bin/sh
-#
-# %FFILE%
-# Copyright (C) %YEAR% %USER% <%MAIL%>
-#
-# Distributed under terms of the %LICENSE% license.
-#
-
+##-----------------------------------------------------------------------------
+##
+##         Name : %FFILE%
+##     Synopsis :
+##       Author : %USER% <%MAIL%>
+##       Source :
+## Last Updated : %DATE%
+##
+## Copyright © %YEAR% %USER%
+## Distributed under terms of the %LICENSE% license.
+##
+##-----------------------------------------------------------------------------
 
 %HERE%
